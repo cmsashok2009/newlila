@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/newlila/static/css/main.6f4c0822.chunk.css",
+    "main.js": "/newlila/static/js/main.bfa288cd.chunk.js",
+    "main.js.map": "/newlila/static/js/main.bfa288cd.chunk.js.map",
+    "runtime~main.js": "/newlila/static/js/runtime~main.39bebdf3.js",
+    "runtime~main.js.map": "/newlila/static/js/runtime~main.39bebdf3.js.map",
+    "static/js/2.4aeff2c2.chunk.js": "/newlila/static/js/2.4aeff2c2.chunk.js",
+    "static/js/2.4aeff2c2.chunk.js.map": "/newlila/static/js/2.4aeff2c2.chunk.js.map",
+    "index.html": "/newlila/index.html",
+    "precache-manifest.cbe6b8c29641e4e5c93feb403aa98d19.js": "/newlila/precache-manifest.cbe6b8c29641e4e5c93feb403aa98d19.js",
+    "service-worker.js": "/newlila/service-worker.js",
+    "static/css/main.6f4c0822.chunk.css.map": "/newlila/static/css/main.6f4c0822.chunk.css.map",
+    "static/media/crown.19ef7b17.svg": "/newlila/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/newlila/static/media/shopping-bag.30f07071.svg"
+  }
+}
